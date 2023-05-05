@@ -1,0 +1,13 @@
+.card{
+  background: #202020;
+  color: #FFFFFF;
+  padding: 20px;
+}
+
+.bg-green{
+  background: green
+}
+
+.bg-red{
+  background:red
+}
